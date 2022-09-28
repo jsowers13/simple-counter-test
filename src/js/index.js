@@ -12,7 +12,8 @@ import "../styles/timer.css";
 
 const Timer = (props) => {
   return (
-    <div className="big-counter">
+      <div className="big-counter">
+          <h1>Counter</h1>
       <div className="clock">
         <i class="fa-regular fa-clock"></i>
       </div>
